@@ -25,6 +25,7 @@ truncatablePrime 3797 ⇢ True (числата 3797, 379, 37 и 3 са прос�
 truncatablePrime 47 ⇢ False
 -}
 
+
 -- Task 1
 solveQuadratic :: Double -> Double -> Double -> (Double, Double)
 solveQuadratic a b c
